@@ -11,7 +11,18 @@
  In this project I used Anaconda distribution, any version of python should work fine to run the project. You can download Anaconda from the follwoing URL https://www.anaconda.com/distribution/
 ## Project Motivation <a name="projectmotv"></a>
 I always chasing specail peroids of the year to have the best deal in terms of prices, so I belive in this project I will assist the sellers to target their vast audience.
-the following questions are answerd in my project
+the following questions are answerd in my project:
+
+First:User distribution by age and gender?
+Second: what are the most top 20 popular products?
+Third: what is the correlation between muiltiple attribute gender, Age, Occupation,etc.?
+
 ## File Description <a name="discr"></a>
+The project contains one juypter-notebook which is  is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. This note-book were writen in self-docmented style.
+
+csv file contains the data.
+
 ## Results <a name="results"></a>
+The results and conclusion are posted on this blog .
 ## Licensing, Authors, and Acknowledgements <a name="etc"></a>
+Many thanks to Analytics Vidhya & Kaggle for providing the datase. feel free to download the dataset from this repositry.
