@@ -23,6 +23,6 @@ The project contains one juypter-notebook which is  is an open-source web applic
 csv file contains the data.
 
 ## Results <a name="results"></a>
-The results and conclusion are posted on this blog .
+The results and conclusion are posted on this blog https://medium.com/@ahmad.n.althamer/targeting-your-audience-in-black-friday-658048d53a9c?source=friends_link&sk=5f5b23bc78e4576319ba2b3003c8f1ee .
 ## Licensing, Authors, and Acknowledgements <a name="etc"></a>
 Many thanks to Analytics Vidhya & Kaggle for providing the datase. feel free to download the dataset from this repositry.
